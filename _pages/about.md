@@ -17,42 +17,150 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👤 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I’m Xinwei Liu, a Ph.D. candidate at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by [**Prof. Xiaochun Cao**](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (currently the Dean of the School of Cyber Science and Technology at Sun Yat-sen University) and and [**Prof. Hua Zhang**](https://visionhzhang.github.io/zh-cn/). Before that, I received my bachelor’s degree from the School of Mathematics and Computer Science, Nanchang University in 2020, advised by Prof [**Prof. Yuchao Tang**](https://maths.gzhu.edu.cn/info/1263/5252.htm). I have also interned at Ant Group between 2022 and 2023.
+
+My research focuses on AI security and multimodal data protection, with an emphasis on data-side proactive defense and trustworthy learning mechanisms. The research topics include adversarial attacks, backdoor and poisoning strategies, jailbreak for LLM/VLM models, and machine unlearning methods. The overarching goal is to establish a secure, controllable, and traceable data protection framework.
+
+**I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities. Please feel free to contact me.**
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 One paper on Security of VLM is accepted in T-IFS2025.
+- *2024.09*: &nbsp;🎉🎉 One paper on Privacy of Multi-modal Data accepted by ACM MM 2024! 
+- *2024.02*: &nbsp;🎉🎉 One paper on Backdoor Attack is accepted by T-IFS! 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/paper/cleaner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor Defense in Contrastive Learning](https://arxiv.org/pdf/2409.17601?)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yuan Xun, Siyuan Liang, Xiaojun Jia, **Xinwei Liu**, Xiaochun Cao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**PDF**](https://arxiv.org/pdf/2409.17601?)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> IEEE Transactions on Information Forensics and Security (TIFS)
+
+
+
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/paper/unlearnable.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Multimodal unlearnable examples: Protecting data against multimodal contrastive learning](https://arxiv.org/pdf/2407.16307)
+
+ **Xinwei Liu**, Xiaojun Jia, Yuan Xun, Siyuan Liang, Xiaochun Cao
+
+[**PDF**](https://arxiv.org/pdf/2407.16307) 
+[**Code**](https://github.com/thinwayliu/Multimodal-Unlearnable-Examples) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Proceedings of the 32nd ACM International Conference on Multimedia 2024 (ACM MM, 2024)
+<!-- - This is a landmark paper in deep learning that introduced residual connections to enable training of very deep neural networks. -->
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/few-shot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Does few-shot learning suffer from backdoor attacks?](https://ojs.aaai.org/index.php/AAAI/article/view/29965/31689)
+
+ **Xinwei Liu**, Xiaojun Jia, Jindong Gu, Yuan Xun, Siyuan Liang, Xiaochun Cao
+
+[**PDF**](https://ojs.aaai.org/index.php/AAAI/article/view/29965/31689) 
+[**Code**](https://github.com/thinwayliu/FLBA-Backdoor) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024)
+<!-- - This is a landmark paper in deep learning that introduced residual connections to enable training of very deep neural networks. -->
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/paper/watermark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Watermark vaccine: Adversarial attacks to prevent watermark removal](https://arxiv.org/pdf/2207.08178)
+
+ **Xinwei Liu**, Jian Liu, Yang Bai, Jindong Gu, Tao Chen, Xiaojun Jia, Xiaochun Cao
+
+[**PDF**](https://arxiv.org/pdf/2207.08178) 
+[**Code**](https://github.com/thinwayliu/Watermark-Vaccine) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+European Conference on Computer Vision 2022 (ECCV 2022) 
+<!-- - This is a landmark paper in deep learning that introduced residual connections to enable training of very deep neural networks. -->
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/paper/minimalism.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Minimalism is king! high-frequency energy-based screening for data-efficient backdoor attacks](https://ieeexplore.ieee.org/abstract/document/10478135/)
+
+Yuan Xun, Xiaojun Jia, Jindong Gu, **Xinwei Liu**, Qing Guo, Xiaochun Cao 
+
+[**PDF**](https://ieeexplore.ieee.org/abstract/document/10478135/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+IEEE Transactions on Information Forensics and Security (TIFS 2024)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/paper/transfer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey on Transferability of Adversarial Examples Across Deep Neural Networks](https://arxiv.org/pdf/2310.17626)
+
+Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, **Xinwei Liu**, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr
+
+[**PDF**](https://arxiv.org/pdf/2310.17626) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Transactions on Machine Learning Research 2024 (TMLR 2024) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop</div><img src='images/paper/universal-watermark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Universal watermark vaccine: Universal adversarial perturbations for watermark protection](https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Chen_Universal_Watermark_Vaccine_Universal_Adversarial_Perturbations_for_Watermark_Protection_CVPRW_2023_paper.pdf)
+
+Jianbo Chen, **Xinwei Liu**, Siyuan Liang, Xiaojun Jia, Yuan Xun
+
+[**PDF**](https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Chen_Universal_Watermark_Vaccine_Universal_Adversarial_Perturbations_for_Watermark_Protection_CVPRW_2023_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPR Workshop 2023)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEI</div><img src='images/paper/jei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Primal-dual algorithm to solve the constrained second-order total generalized variational model for image denoising](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-28/issue-4/043017/Primal-dual-algorithm-to-solve-the-constrained-second-order-total/10.1117/1.JEI.28.4.043017.short)
+
+ **Xinwei Liu**, Yuchao Tang, Yixuan Yang
+
+[**PDF**](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-28/issue-4/043017/Primal-dual-algorithm-to-solve-the-constrained-second-order-total/10.1117/1.JEI.28.4.043017.short) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Journal of Electronic Imaging
+</div>
+</div>
+
+<!-- Add your publications here with proper titles and descriptions -->
+<!-- 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02* Paper accepted by T-IFS journal
+- *2024.09* Paper accepted by ACM MM 2024
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - Present*, Ph.D. candidate, Institute of Information Engineering, Chinese Academy of Sciences 
+- *2016.09 - 2020.06*, Bachelor's degree, School of Mathematics and Computer Science, Nanchang University
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- Add your invited talks here -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+Add your internship experiences here -->

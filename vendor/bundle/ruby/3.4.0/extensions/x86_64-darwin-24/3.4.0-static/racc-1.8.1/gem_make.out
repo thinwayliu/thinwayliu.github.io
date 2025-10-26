@@ -1,0 +1,19 @@
+current directory: /Users/liuxinwei/study object/thinwayliu.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/liuxinwei/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/liuxinwei/study object/thinwayliu.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251025-50689-sy8l6u sitelibdir\=./.gem.20251025-50689-sy8l6u clean
+
+current directory: /Users/liuxinwei/study object/thinwayliu.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251025-50689-sy8l6u sitelibdir\=./.gem.20251025-50689-sy8l6u
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: directory not found for option '-L/usr/local/opt/gdbm/lib'
+
+current directory: /Users/liuxinwei/study object/thinwayliu.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251025-50689-sy8l6u sitelibdir\=./.gem.20251025-50689-sy8l6u install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251025-50689-sy8l6u/racc
+
+current directory: /Users/liuxinwei/study object/thinwayliu.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251025-50689-sy8l6u sitelibdir\=./.gem.20251025-50689-sy8l6u clean
