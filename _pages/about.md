@@ -19,7 +19,7 @@ redirect_from:
 
 # 👤 About Me
 
-I’m Xinwei Liu, a Ph.D. candidate at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by [**Prof. Xiaochun Cao**](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (currently the Dean of the School of Cyber Science and Technology at Sun Yat-sen University) and and [**Prof. Hua Zhang**](https://visionhzhang.github.io/zh-cn/). Before that, I received my bachelor’s degree from the School of Mathematics and Computer Science, Nanchang University in 2020, advised by Prof [**Prof. Yuchao Tang**](https://maths.gzhu.edu.cn/info/1263/5252.htm). I have also interned at Ant Group between 2022 and 2023.
+I’m Xinwei Liu, a Ph.D. candidate at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by [**Prof. Xiaochun Cao**](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (currently the Dean of the School of Cyber Science and Technology at Sun Yat-sen University) and [**Prof. Hua Zhang**](https://visionhzhang.github.io/zh-cn/). Before that, I received my bachelor’s degree from the School of Mathematics and Computer Science, Nanchang University in 2020, advised by [**Prof. Yuchao Tang**](https://maths.gzhu.edu.cn/info/1263/5252.htm). I have also interned at Ant Group between 2022 and 2023.
 
 My research focuses on AI security and multimodal data protection, with an emphasis on data-side proactive defense and trustworthy learning mechanisms. The research topics include adversarial attacks, backdoor and poisoning strategies, jailbreak for LLM/VLM models, and machine unlearning methods. The overarching goal is to establish a secure, controllable, and traceable data protection framework.
 
@@ -149,18 +149,66 @@ Journal of Electronic Imaging
 </div>
 </div>
 
-<!-- Add your publications here with proper titles and descriptions -->
+<!-- Add your publications here with proper titles and descriptions
 <!-- 
+
+ Preprints (see full list on Google Scholar) -->
+
+# 📖 Preprints (see full list on [Google Scholar]("https://scholar.google.com/citations?user=dVn3LgwAAAAJ&hl=en"))
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/paper/geoshield.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations](https://arxiv.org/abs/2508.03209)
+
+ **Xinwei Liu**, Xiaojun Jia, Yuan Xun, Simeng Qin, Xiaochun Cao
+
+[**PDF**](https://arxiv.org/pdf/2508.03209) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Arxiv 2025
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/paper/persguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PersGuard: Preventing Malicious Personalization via Backdoor Attacks on Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/pdf/2502.16167)
+
+ **Xinwei Liu**, Xiaojun Jia, Yuan Xun, Hua Zhang, Xiaochun Cao
+
+[**PDF**](https://arxiv.org/pdf/2508.03209) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Arxiv 2025
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/paper/babyemo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Emotional Baby Is Truly Deadly: Does your Multimodal Large Reasoning Model Have Emotional Flattery towards Humans?](https://arxiv.org/abs/2508.03986)
+
+ Yuan Xun, Xiaojun Jia, **Xinwei Liu**, Hua Zhang
+
+[**PDF**](https://arxiv.org/pdf/2508.03986) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Arxiv 2025
+
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
-- *2024.02* Paper accepted by T-IFS journal
-- *2024.09* Paper accepted by ACM MM 2024
+- National Scholarship (Undergraduate Level), Ministry of Education of China 2024 
+- National Scholarship (Doctoral Level), Ministry of Education of China 2019
+- Third Prize (Ranked 1st) in the 2025 Qiyuan Large Model Adversarial Challenge  
 
-# 📖 Educations
-- *2020.09 - Present*, Ph.D. candidate, Institute of Information Engineering, Chinese Academy of Sciences 
-- *2016.09 - 2020.06*, Bachelor's degree, School of Mathematics and Computer Science, Nanchang University
+# 🚩 Service
+- **Conference Reviewer**: CVPR, NeurIPS, ICLR, ICCV, ECCV, ACM MM, AAAI 
+- **Journal Reviewer**: IEEE T-PAMI, IEEE TIFS, IEEE TIP, IEEE TDSC, Pattern Recognition
 
-# 💬 Invited Talks
-<!-- Add your invited talks here -->
+<!-- # 💬 Invited Talks
+Add your invited talks here -->
 
 # 💻 Internships
-Add your internship experiences here -->
+- 2022.03 - 2023.06, Research Intern, Ant Group, China.
