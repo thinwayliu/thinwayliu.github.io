@@ -9,7 +9,24 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | app# 🎖 Honors and Awards
+<div class="honor-item">
+  <strong>🏅 National Scholarship (Doctoral Level)</strong> - Ministry of Education of China, 2024
+</div>
+<div class="honor-item">
+  <strong>🏅 National Scholarship (Undergraduate Level)</strong> - Ministry of Education of China, 2019  
+</div>
+<div class="honor-item">
+  <strong>🥉 Third Prize (Ranked 1st)</strong> - 2025 Qiyuan Large Model Adversarial Challenge
+</div>
+
+# 🚩 Academic Service
+<div class="service-item">
+  <strong>📋 Conference Reviewer:</strong> CVPR, NeurIPS, ICLR, ICCV, ECCV, ACM MM, AAAI
+</div>
+<div class="service-item">
+  <strong>📖 Journal Reviewer:</strong> IEEE T-PAMI, IEEE TIFS, IEEE TIP, IEEE TDSC, Pattern Recognition
+</div>e.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
@@ -17,23 +34,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👤 About Me
+# � About Me
 
-I’m Xinwei Liu, a Ph.D. candidate at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by [**Prof. Xiaochun Cao**](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (currently the Dean of the School of Cyber Science and Technology at Sun Yat-sen University) and [**Prof. Hua Zhang**](https://visionhzhang.github.io/zh-cn/). Before that, I received my bachelor’s degree from the School of Mathematics and Computer Science, Nanchang University in 2020, advised by [**Prof. Yuchao Tang**](https://maths.gzhu.edu.cn/info/1263/5252.htm). I have also interned at Ant Group between 2022 and 2023.
+I'm **Xinwei Liu**, a Ph.D. candidate at the [Institute of Information Engineering, Chinese Academy of Sciences](http://www.iie.ac.cn/) (IIE, CAS), where I focus on advancing the frontiers of AI security and privacy protection. I am fortunate to be supervised by [**Prof. Xiaochun Cao**](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology at Sun Yat-sen University) and [**Prof. Hua Zhang**](https://visionhzhang.github.io/zh-cn/).
 
-My research focuses on AI security and multimodal data protection, with an emphasis on data-side proactive defense and trustworthy learning mechanisms. The research topics include adversarial attacks, backdoor and poisoning strategies, jailbreak for LLM/VLM models, and machine unlearning methods. The overarching goal is to establish a secure, controllable, and traceable data protection framework.
+I received my Bachelor's degree from the School of Mathematics and Computer Science, Nanchang University in 2020, advised by [**Prof. Yuchao Tang**](https://maths.gzhu.edu.cn/info/1263/5252.htm). During my research journey, I also gained valuable industry experience as a research intern at Ant Group (2022-2023).
 
-**I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities. Please feel free to contact me.**
+**Research Focus**: My work centers on developing **trustworthy AI systems** through multimodal data protection and proactive defense mechanisms. I specialize in:
+
+<div class="research-focus">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1em; margin-top: 1em;">
+    <div>
+      🛡️ <strong>AI Security</strong><br>
+      <em>Adversarial attacks, backdoor defenses, and poisoning strategies</em>
+    </div>
+    <div>
+      🔒 <strong>Privacy Protection</strong><br>
+      <em>Machine unlearning and data privacy for multimodal systems</em>
+    </div>
+    <div>
+      🚨 <strong>Large Model Safety</strong><br>
+      <em>Jailbreak attacks and defenses for LLM/VLM models</em>
+    </div>
+    <div>
+  </div>
+</div>
+
+🚀 **I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities worldwide. Please feel free to reach out!**
 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 One paper on Security of VLM is accepted in T-IFS2025.
-- *2024.09*: &nbsp;🎉🎉 One paper on Privacy of Multi-modal Data accepted by ACM MM 2024! 
-- *2024.02*: &nbsp;🎉🎉 One paper on Backdoor Attack is accepted by T-IFS! 
+<div class="news-item">
+  <strong>🎉 2025.10:</strong> One paper on Security of VLM is accepted in <strong>T-IFS 2025</strong>!
+</div>
+<div class="news-item">
+  <strong>🎉 2024.09:</strong> One paper on Privacy of Multi-modal Data accepted by <strong>ACM MM 2024</strong>!
+</div>
+<div class="news-item">
+  <strong>🎉 2024.02:</strong> One paper on Backdoor Attack is accepted by <strong>T-IFS</strong>!
+</div> 
 
 
 # 📝 Publications 
+<!-- 
+<div style="background: linear-gradient(45deg, #f8f9ff, #e8f0fe); padding: 1.5em; border-radius: 10px; margin-bottom: 2em; text-align: center;">
+  <h3 style="margin-top: 0; color: #4285f4;">🎯 Research Impact</h3>
+  <p>I have published <strong>9+ papers</strong> in top-tier venues including <strong>TIFS, ECCV, AAAI, ACM MM</strong>, focusing on AI security and privacy protection.</p>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1em; margin: 1em 0; text-align: center;">
+    <div style="background: white; padding: 1em; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+      <strong>🎯 Main Focus</strong><br>
+      <span style="color: #4285f4;">AI Security & Privacy</span>
+    </div>
+    <div style="background: white; padding: 1em; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+      <strong>📊 Impact Areas</strong><br>
+      <span style="color: #4285f4;">Multimodal Learning</span>
+    </div>
+    <div style="background: white; padding: 1em; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+      <strong>🔬 Methods</strong><br>
+      <span style="color: #4285f4;">Adversarial & Defense</span>
+    </div>
+  </div>
+  <p><em>Click on any paper below to learn more about the research!</em></p>
+</div> -->
+
+## 🏆 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/paper/cleaner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -212,3 +277,31 @@ Add your invited talks here -->
 
 # 💻 Internships
 - 2022.03 - 2023.06, Research Intern, Ant Group, China.
+
+# 🌍 Visitor Map
+
+<div class="visitor-map">
+  <h3>🗺️ Visitors from Around the World</h3>
+  <p>Thank you for visiting my homepage! Here's where my visitors are from:</p>
+  
+  <!-- To get your clustrmaps code:
+       1. Visit https://clustrmaps.com/
+       2. Click "Get Free Map"
+       3. Enter your website URL: https://thinwayliu.github.io
+       4. Choose your map style
+       5. Copy the generated script code and replace the line below
+  -->
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOUR_MAP_ID&cl=ffffff&w=a"></script>
+  
+  <p style="margin-top: 1em; font-size: 0.9em; color: #666;">
+    📍 <em>This map shows the geographical distribution of visitors to my website.</em>
+  </p>
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 2em; padding: 1em; background: linear-gradient(45deg, #f8f9ff, #e8f0fe); border-radius: 10px;">
+  <p><strong>🤝 Let's Connect!</strong></p>
+  <p>I'm always open to collaborations, discussions, and new opportunities.</p>
+  <p>Feel free to reach out if you're interested in AI security, privacy protection, or academic collaboration.</p>
+</div>
