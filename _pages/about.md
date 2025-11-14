@@ -45,38 +45,14 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 
 ## 🏆 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/geoshield.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/paper/geoshield.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations](https://arxiv.org/abs/2508.03209)
 
 **Xinwei Liu**, Xiaojun Jia, Yuan Xun, Simeng Qin, Xiaochun Cao
 
-[**PDF**](https://arxiv.org/pdf/2508.03209) arXiv 2024
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/babyemo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[The Emotional Baby Is Truly Deadly: Does your Multimodal Large Reasoning Model Have Emotional Flattery towards Humans?](https://arxiv.org/abs/2508.03986)
-
-Yuan Xun, Xiaojun Jia, **Xinwei Liu**, Hua Zhang
-
-[**PDF**](https://arxiv.org/pdf/2508.03986) arXiv 2024
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/paper/cleaner.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor Defense in Contrastive Learning](https://arxiv.org/pdf/2409.17601?)
-
-Yuan Xun, Siyuan Liang, Xiaojun Jia, **Xinwei Liu**, Xiaochun Cao
-
-[**PDF**](https://arxiv.org/pdf/2409.17601?) IEEE Transactions on Information Forensics and Security (TIFS)
+[**PDF**](https://arxiv.org/pdf/2508.03209) AAAI 2026
 
 </div>
 </div>
@@ -116,6 +92,30 @@ Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024)
 
 [**PDF**](https://arxiv.org/pdf/2207.08178) [**Code**](https://github.com/thinwayliu/Watermark-Vaccine)
 European Conference on Computer Vision 2022 (ECCV 2022) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/paper/babyemo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Emotional Baby Is Truly Deadly: Does your Multimodal Large Reasoning Model Have Emotional Flattery towards Humans?](https://arxiv.org/abs/2508.03986)
+
+Yuan Xun, Xiaojun Jia, **Xinwei Liu**, Hua Zhang
+
+[**PDF**](https://arxiv.org/pdf/2508.03986) AAAI 2026
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/paper/cleaner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor Defense in Contrastive Learning](https://arxiv.org/pdf/2409.17601?)
+
+Yuan Xun, Siyuan Liang, Xiaojun Jia, **Xinwei Liu**, Xiaochun Cao
+
+[**PDF**](https://arxiv.org/pdf/2409.17601?) IEEE Transactions on Information Forensics and Security (TIFS)
 
 </div>
 </div>
