@@ -34,7 +34,7 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 ---
 
 # 🔥 News
-
+- **🎉 Nov 2025:** Two papers are accepted in **AAAI 2026**!
 - **🎉 Oct 2025:** One paper on Security of VLM is accepted in **T-IFS 2025**!
 - **🎉 Sep 2024:** One paper on Privacy of Multi-modal Data accepted by **ACM MM 2024**!
 - **🎉 Feb 2024:** One paper on Backdoor Attack is accepted by **T-IFS 2024**!
@@ -44,6 +44,30 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 # 📝 Publications
 
 ## 🏆 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/geoshield.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations](https://arxiv.org/abs/2508.03209)
+
+**Xinwei Liu**, Xiaojun Jia, Yuan Xun, Simeng Qin, Xiaochun Cao
+
+[**PDF**](https://arxiv.org/pdf/2508.03209) arXiv 2024
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/babyemo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Emotional Baby Is Truly Deadly: Does your Multimodal Large Reasoning Model Have Emotional Flattery towards Humans?](https://arxiv.org/abs/2508.03986)
+
+Yuan Xun, Xiaojun Jia, **Xinwei Liu**, Hua Zhang
+
+[**PDF**](https://arxiv.org/pdf/2508.03986) arXiv 2024
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/paper/cleaner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -152,17 +176,6 @@ Journal of Electronic Imaging
 
 See full list on [Google Scholar](https://scholar.google.com/citations?user=dVn3LgwAAAAJ&hl=en)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/geoshield.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations](https://arxiv.org/abs/2508.03209)
-
-**Xinwei Liu**, Xiaojun Jia, Yuan Xun, Simeng Qin, Xiaochun Cao
-
-[**PDF**](https://arxiv.org/pdf/2508.03209) arXiv 2024
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/persguard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -176,17 +189,7 @@ See full list on [Google Scholar](https://scholar.google.com/citations?user=dVn3
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/babyemo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[The Emotional Baby Is Truly Deadly: Does your Multimodal Large Reasoning Model Have Emotional Flattery towards Humans?](https://arxiv.org/abs/2508.03986)
-
-Yuan Xun, Xiaojun Jia, **Xinwei Liu**, Hua Zhang
-
-[**PDF**](https://arxiv.org/pdf/2508.03986) arXiv 2024
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 
