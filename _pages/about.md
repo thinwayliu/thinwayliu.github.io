@@ -29,9 +29,22 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 - 🔒 **Privacy Protection**: Machine unlearning and data privacy for multimodal systems  
 - 🚨 **Large Model Safety**: Jailbreak attacks and defenses for LLM/VLM models
 
-> 🚀 **I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities worldwide. Please feel free to reach out!**
->
-> 📄 **[Download My CV](Xinwei_Liu_CV.pdf)** | [Google Scholar](https://scholar.google.com/citations?user=dVn3LgwAAAAJ&hl=en) | [GitHub](https://github.com/thinwayliu)
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1.5em; border-radius: 12px; margin: 1.5em 0; color: white;">
+  <p style="font-size: 1.1em; margin-bottom: 1em; text-align: center;">
+    🚀 <strong>I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities worldwide!</strong>
+  </p>
+  <div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap;">
+    <a href="Xinwei_Liu_CV.pdf" style="background: white; color: #667eea; padding: 0.6em 1.5em; border-radius: 25px; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center; gap: 0.5em; box-shadow: 0 2px 10px rgba(0,0,0,0.2);">
+      📄 Download CV
+    </a>
+    <a href="https://scholar.google.com/citations?user=dVn3LgwAAAAJ&hl=en" style="background: rgba(255,255,255,0.2); color: white; padding: 0.6em 1.5em; border-radius: 25px; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center; gap: 0.5em;">
+      🎓 Google Scholar
+    </a>
+    <a href="https://github.com/thinwayliu" style="background: rgba(255,255,255,0.2); color: white; padding: 0.6em 1.5em; border-radius: 25px; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center; gap: 0.5em;">
+      💻 GitHub
+    </a>
+  </div>
+</div>
 
 ---
 
