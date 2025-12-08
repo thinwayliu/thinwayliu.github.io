@@ -30,6 +30,8 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 - 🚨 **Large Model Safety**: Jailbreak attacks and defenses for LLM/VLM models
 
 > 🚀 **I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities worldwide. Please feel free to reach out!**
+>
+> 📄 **[Download My CV](Xinwei_Liu_CV.pdf)** | [Google Scholar](https://scholar.google.com/citations?user=dVn3LgwAAAAJ&hl=en) | [GitHub](https://github.com/thinwayliu)
 
 ---
 
