@@ -19,9 +19,9 @@ redirect_from:
 
 # 👤 About Me
 
-I'm **Xinwei Liu**, a Ph.D. candidate at the [Institute of Information Engineering, Chinese Academy of Sciences](http://www.iie.ac.cn/) (IIE, CAS), where I focus on advancing the frontiers of AI security and privacy protection. I am fortunate to be supervised by [**Prof. Xiaochun Cao**](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology at Sun Yat-sen University) and [**Prof. Hua Zhang**](https://visionhzhang.github.io/zh-cn/).
+I'm **Xinwei Liu**, a Postdoctoral Fellow at ASTAPLE, where I am honored to work with [**Prof. Haibo Hu**](https://www.polyu.edu.hk/ee/people/detail/50/), in the Department of Electrical and Electronic Engineering of The Hong Kong Polytechnic University.
 
-I received my Bachelor's degree from the School of Mathematics and Computer Science, Nanchang University in 2020, advised by [**Prof. Yuchao Tang**](https://maths.gzhu.edu.cn/info/1263/5252.htm). During my research journey, I also gained valuable industry experience as a research intern at Ant Group (2022-2023).
+I received my Ph.D. degree from the [Institute of Information Engineering, Chinese Academy of Sciences](http://www.iie.ac.cn/) (IIE, CAS), supervised by [**Prof. Xiaochun Cao**](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology at Sun Yat-sen University) and [**Prof. Hua Zhang**](https://visionhzhang.github.io/zh-cn/). I received my Bachelor's degree from the School of Mathematics and Computer Science, Nanchang University in 2020, advised by [**Prof. Yuchao Tang**](https://maths.gzhu.edu.cn/info/1263/5252.htm). During my research journey, I also gained valuable industry experience as a research intern at Ant Group (2022-2023).
 
 **Research Focus**: My work centers on developing **trustworthy AI systems** through multimodal data protection and proactive defense mechanisms. I specialize in:
 
@@ -31,7 +31,7 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1.5em; border-radius: 12px; margin: 1.5em 0; color: white;">
   <p style="font-size: 1.1em; margin-bottom: 1em; text-align: center;">
-    🚀 <strong>I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities worldwide!</strong>
+    🚀 <strong>I have joined ASTAPLE at The Hong Kong Polytechnic University as a Postdoctoral Fellow!</strong>
   </p>
   <div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap;">
     <a href="Xinwei_Liu_CV.pdf" style="background: white; color: #667eea; padding: 0.6em 1.5em; border-radius: 25px; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center; gap: 0.5em; box-shadow: 0 2px 10px rgba(0,0,0,0.2);">
@@ -49,6 +49,7 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 ---
 
 # 🔥 News
+- **🎉 Aug 2026:** Our paper **PersGuard** is accepted by **IEEE TDSC 2026**!
 - **🎉 Nov 2025:** Two papers are accepted in **AAAI 2026**!
 - **🎉 Oct 2025:** One paper on Security of VLM is accepted in **T-IFS 2025**!
 - **🎉 Sep 2024:** One paper on Privacy of Multi-modal Data accepted by **ACM MM 2024**!
@@ -68,6 +69,18 @@ I received my Bachelor's degree from the School of Mathematics and Computer Scie
 **Xinwei Liu**, Xiaojun Jia, Yuan Xun, Simeng Qin, Xiaochun Cao
 
 [**PDF**](https://arxiv.org/pdf/2508.03209) AAAI 2026
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2026</div><img src='images/paper/persguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PersGuard: Preventing Malicious Personalization via Backdoor Attacks on Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/pdf/2502.16167)
+
+**Xinwei Liu**, Xiaojun Jia, Yuan Xun, Hua Zhang, Xiaochun Cao
+
+[**PDF**](https://arxiv.org/pdf/2502.16167) IEEE Transactions on Dependable and Secure Computing (TDSC 2026)
 
 </div>
 </div>
@@ -192,17 +205,6 @@ Journal of Electronic Imaging
 See full list on [Google Scholar](https://scholar.google.com/citations?user=dVn3LgwAAAAJ&hl=en)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/persguard.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PersGuard: Preventing Malicious Personalization via Backdoor Attacks on Pre-trained Text-to-Image Diffusion Models](https://arxiv.org/pdf/2502.16167)
-
-**Xinwei Liu**, Xiaojun Jia, Yuan Xun, Hua Zhang, Xiaochun Cao
-
-[**PDF**](https://arxiv.org/pdf/2502.16167) arXiv 2025
-
-</div>
-</div>
 
 
 
